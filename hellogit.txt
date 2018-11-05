@@ -6,3 +6,5 @@ yyyyyyyy
 2222222222
 
 333333333333
+add some content to hellogit.exe
+777777777
